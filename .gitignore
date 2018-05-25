@@ -5,3 +5,4 @@ papers/
 __pycache__/
 images.ipynb
 models/
+!models/unet_9_epoch22_loss-0.5965.hdf5
