@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="3828.7664"
+   height="1444.0714"
+   viewBox="0 0 3828.7664 1444.0714"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="morph.svg"
+   inkscape:export-filename="/mnt/FA325A5D325A1F47/carlosDrive/projects/perimeter_extract/img/web/morph.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="1742.0709"
+     inkscape:cy="830.8644"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="px"
+     inkscape:window-width="2560"
+     inkscape:window-height="1034"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4202"
+       originx="2325"
+       originy="-360.9286" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(2325,752.63782)">
+    <image
+       sodipodi:absref="/mnt/FA325A5D325A1F47/carlosDrive/projects/perimeter_extract/img/web/morph_pred.png"
+       xlink:href="morph_pred.png"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       width="1260.3522"
+       height="1444"
+       preserveAspectRatio="none"
+       id="image4177"
+       x="-2325"
+       y="-752.63782" />
+    <image
+       sodipodi:absref="/mnt/FA325A5D325A1F47/carlosDrive/projects/perimeter_extract/img/web/morph_dilate.png"
+       xlink:href="morph_dilate.png"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       width="1257.9576"
+       height="1444.0714"
+       preserveAspectRatio="none"
+       id="image4188"
+       x="-1040"
+       y="-752.63782" />
+    <image
+       sodipodi:absref="/mnt/FA325A5D325A1F47/carlosDrive/projects/perimeter_extract/img/web/morph_erode.png"
+       xlink:href="morph_erode.png"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       width="1257.8826"
+       height="1443.9854"
+       preserveAspectRatio="none"
+       id="image4199"
+       x="245.88388"
+       y="-752.63782" />
+  </g>
+</svg>
