@@ -1,0 +1,6 @@
+data/
+landsat/
+papers/
+.ipynb_checkpoints/
+__pycache__/
+images.ipynb
