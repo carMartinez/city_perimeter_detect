@@ -5,7 +5,7 @@ Automatically extract the perimeter of a city given an aerial or satellite image
 ![Summary diagram](https://github.com/carMartinez/city_perimeter_detect/blob/master/img/web/summary.png)
 
 A full overview of this project including results and a summary of the methods
-are available here. The basic workflow is listed below with each step
+are [available here](http://cmartinez.io/perimeter-detection/). The basic workflow is listed below with each step
 corresponding to a Jupyter notebook. More details are also available within the
 notebooks. Note that the data used is not hosted here because of size and ownership,
 but the procedure for freely downloading is explained in the first notebook.
