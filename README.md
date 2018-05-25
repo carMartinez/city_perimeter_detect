@@ -12,8 +12,8 @@ but the procedure for freely downloading is explained in the first notebook.
 
 1. [download.ipynb](https://github.com/carMartinez/city_perimeter_detect/blob/master/download.ipynb)
 Download aerial images for 6 cities in Arizona. Aerial images are sourced
-from the National National Agriculture Imagery Program (NAIP) data available
-on an AWS S3 bucket. Many image files must downloaded to cover a single city resulting
+from the [National National Agriculture Imagery Program (NAIP) data available
+on an AWS S3 bucket](https://docs.opendata.aws/aws-naip/readme.html). Many image files must downloaded to cover a single city resulting
 in about 3-4 GB of data.
 2. [label_roads.ipynb](https://github.com/carMartinez/city_perimeter_detect/blob/master/label_roads.ipynb)
 Generate labels for machine learning by overlaying freely available Open
@@ -35,4 +35,4 @@ polygon around the road network. This is taken to be the city perimeter.
 
 Results for the 5 cities are shown below.
 
-![Results](https://github.com/carMartinez/city_perimeter_detect/blob/master/img/web/results.png
+![Results](https://github.com/carMartinez/city_perimeter_detect/blob/master/img/web/results.png)
